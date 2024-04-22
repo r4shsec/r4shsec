@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm r4shsec</h1>
-<h3 align="center">Penetration tester working with exploit development.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=r4shsec&label=Profile%20views&color=0e75b6&style=flat" alt="r4shsec" /> </p>
 
