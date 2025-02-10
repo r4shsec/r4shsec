@@ -1,19 +1,27 @@
 <br clear="both">
 
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=r4shsec.r4shsec&left_text=Visitor%20Count"  />
+</div>
+
+###
+
+<br clear="both">
+
 <img align="right" height="150" src="https://i.imgur.com/j5wnSJ4.png"  />
 
 ###
 
 <div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=r4shsec.r4shsec&left_text=Visitor%20Count"  />
+  <a href="https://discord.gg/DpbbQDeD" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
+  </a>
+  <a href="https://youtube.com/@r4shsec" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
+  </a>
+  <a href="r4shsec@protonmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  </a>
 </div>
 
 ###
@@ -72,20 +80,6 @@
 
 ###
 
-![r4shsec's Stats](https://github-readme-stats.vercel.app/api?username=r4shsec&theme=onedark&show_icons=true&hide_border=false&count_private=false)
-
-###
-
-<div align="left">
-  <a href="https://discord.gg/DpbbQDeD" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
-  </a>
-  <a href="https://youtube.com/@r4shsec" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
-  </a>
-  <a href="r4shsec@protonmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-  </a>
-</div>
+![r4shsec's Stats](https://github-readme-stats.vercel.app/api?username=r4shsec&theme=onedark&show_icons=true&hide_border=false&count_private=true)
 
 ###
