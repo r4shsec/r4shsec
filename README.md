@@ -28,7 +28,7 @@
 
 <br clear="both">
 
-<h1 align="center">R4shSec</h1>
+<div align="center">[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=70&letterSpacing=center&duration=5033&pause=961&color=00F71E&width=600&height=103&lines=R4shSec)](https://git.io/typing-svg)</div>
 
 ###
 
