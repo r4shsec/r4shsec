@@ -1,4 +1,4 @@
-![Banner](https://i.imgur.com/eGllj3H.gif)
+![Banner](./github-header-banner.png)
 
 # 💫 About Me:
 🥷 Cyber Security Researcher<br>🧑‍💻 Web Developer
