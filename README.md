@@ -40,7 +40,7 @@
 
 - [📧 Email: r4shsec@protonmail.com](mailto:r4shsec@protonmail.com)
 - [🧵 Threads: @r4sh.sec](https://threads.com/@r4sh.sec)
-- [🧵 YouTube: @r4shsec](https://youtube.com/@r4shsec)
+- [❤️ YouTube: @r4shsec](https://youtube.com/@r4shsec)
 
 ----
 
