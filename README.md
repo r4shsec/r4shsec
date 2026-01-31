@@ -1,7 +1,7 @@
 <h1 align="center">Hey 👋, I'm <b>@R4shSec</b></h1>
-<div style="text-align:center;">
+<center>
     <img src="https://komarev.com/ghpvc/?username=r4shsec&color=lightgrey&style=for-the-badge">
-</div>
+</center>
 
 ---
 <center>
