@@ -40,4 +40,4 @@
 
 ----
 
-[![Support Me](/assets/kofi.gif)](https://ko-fi.com/r4shsec)
+[![Ko-fi](https://img.shields.io/badge/Ko-fi-F16061.svg?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/r4shsec)
