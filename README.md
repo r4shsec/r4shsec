@@ -1,35 +1,59 @@
-<h1 align="center">Hey 👋, I'm <b>@R4shSec</b></h1>
-<center>
-    <img src="https://komarev.com/ghpvc/?username=r4shsec&color=lightgrey&style=for-the-badge">
-</center>
+<br clear="both">
 
----
-<center>
-    <img src="https://i.pinimg.com/originals/bc/87/e5/bc87e5124f8d2cfe810d403adc96ad01.gif">
-</center>
+<div align="center">
+  <img height="200" src="https://readmeforge.natrajx.in/api/banner?text=R4shSec&subtext=Full-Stack+Developer+%C2%B7+Open+Source&metal=chrome&type=flat&height=200&width=900&animation=fadeIn&align=center&section=header&theme=dark&fontFamily=Orbitron&colors=black"  />
+</div>
 
----
+###
 
-<h2 align="center">My Skills ⚡</h1>
+<br clear="both">
 
-- 🚩 Cybersecurity Researcher
-- 🍎 Full-Stack Developer
-- 🎨 Graphic Designer
-- 🔴 Content Creator 
-- 📝 Blogger
+<h1 align="center">Hey 👋 | I am @R4shSec</h1>
 
-<h2 align="center">Technologies ⚙️</h1>
+###
 
-<center>
-    <img src="https://skillicons.dev/icons?i=html,css,js,bash,cloudflare,git,github,gmail,instagram,linux,windows,py,supabase,vscode">
-</center>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=bash" height="60" alt="bash logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=docker" height="60" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=discord" height="60" alt="discord logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=css" height="60" alt="css logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=cloudflare" height="60" alt="cloudflare logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=flask" height="60" alt="flask logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=github" height="60" alt="github logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=git" height="60" alt="git logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=html" height="60" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=js" height="60" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=linux" height="60" alt="linux logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=postman" height="60" alt="postman logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=supabase" height="60" alt="supabase logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=vscode" height="60" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
+</div>
 
-<h2 align="center">My Stats 🔥</h1>
+###
 
-<center>
-      <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=github&theme=onedark&fontFamily=JetBrains%20Mono&preferLogin=false">    <img  alt="r4shsec's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/r4shsec?cardType=github&theme=onedark&fontFamily=JetBrains%20Mono&preferLogin=false" />  </a>
-</center>
+<div align="center">
+  <a href="https://youtube.com/@r4shsec" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=R4shSec&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
+  </a>
+  <a href="https://ko-fi.com/r4shsec" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Ko-fi&logo=ko-fi&label=R4shSec&color=F16061&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="ko-fi logo"  />
+  </a>
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=r4shsec&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
+</div>
 
-----
-
-[![Ko-fi](https://img.shields.io/badge/Ko-fi-F16061.svg?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/r4shsec)
+###
