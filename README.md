@@ -32,12 +32,4 @@
 
 ----
 
-<h2 align="center">Contect Me 📫</h1>
-
-- [📧 Email: r4shsec@protonmail.com](mailto:r4shsec@protonmail.com)
-- [🧵 Threads: @r4sh.sec](https://threads.com/@r4sh.sec)
-- [❤️ YouTube: @r4shsec](https://youtube.com/@r4shsec)
-
-----
-
 [![Ko-fi](https://img.shields.io/badge/Ko-fi-F16061.svg?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/r4shsec)
