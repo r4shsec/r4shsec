@@ -25,4 +25,8 @@
 
 # Stats 
 
-![R4shSec Stats](https://git-readme-stats-working.vercel.app/api?username=r4shsec&show_icons=true&theme=dracula)
+<p align="center">
+<img src="https://git-readme-stats-working.vercel.app/api?username=r4shsec&show_icons=true&theme=dracula">
+ <br>
+<img src="https://git-readme-stats-working.vercel.app/api/top-langs/?username=r4shsec&langs_count=8&show_icons=true&theme=dracula&layout=donut">
+</p>
