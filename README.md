@@ -22,11 +22,3 @@
 # Skills
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,bash,supabase,py,ubuntu,windows,sentry,github,git,flask,firebase,discord,docker,cloudflare)](https://skillicons.dev)
-
-# Stats 
-
-<p align="center">
-<img src="https://git-readme-stats-working.vercel.app/api?username=r4shsec&show_icons=true&theme=dracula">
- <br>
-<img src="https://git-readme-stats-working.vercel.app/api/top-langs/?username=r4shsec&langs_count=8&show_icons=true&theme=dracula&layout=donut">
-</p>
